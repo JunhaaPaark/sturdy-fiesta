@@ -27,9 +27,9 @@ SECRET_KEY = 'gmsfxw^l_-30xw$-9msx8tm(5r%^3&bo@c7k!mdds%#k9s11tl'
 DEBUG = True
 
 # for local source
-# ALLOWED_HOSTS = ['0.0.0.0', 'django-practice-1612345.run.goorm.io']
+ALLOWED_HOSTS = ['0.0.0.0', 'django-practice-1612345.run.goorm.io']
 # https://없는 주소 작성
-ALLOWED_HOSTS = ['0.0.0.0', 'junhaapaark.pythonanywhere.com']
+# ALLOWED_HOSTS = ['0.0.0.0', 'junhaapaark.pythonanywhere.com']
 # ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
 
