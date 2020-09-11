@@ -26,7 +26,7 @@ SECRET_KEY = 'gmsfxw^l_-30xw$-9msx8tm(5r%^3&bo@c7k!mdds%#k9s11tl'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0.0.0.0', 'django-practice-1612345.run.goorm.io']
+ALLOWED_HOSTS = ['0.0.0.0', 'junhaapaark.pythonanywhere.com']
 # ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
 
